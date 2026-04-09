@@ -48,7 +48,7 @@ An interactive Power BI dashboard providing:
 ---
 
 ##  Dashboard Preview
-![Dashboard Overview](dashboard/dashboard-overview.png)
+![Dashboard Overview](dashboard/Maven-Market-Retail-Sales-Performance-Dashboard-Overview.png)
 
 ---
 
