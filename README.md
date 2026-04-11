@@ -54,7 +54,7 @@ Designed a centralized, data-driven performance system:
 - Cross-functional access to shared insights
 - Continuous performance monitoring
 
-![Dashboard Overview](documentation/Maven-Market-BRD-TO-BE-Flow.png)
+![Dashboard Overview](documentation/Maven-Market-BRD_TO-BE-Flow.png)
 
 ## Business Impact
 **Key Improvements:**
