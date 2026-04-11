@@ -26,7 +26,7 @@ This resulted in:
 
 ### Full Documentation
 **Business Requirements Document (BRD)**
-![View Full BRD](documentation/Maven-Market-Business-Requirements-Document.png)
+![View Full BRD](documentation/Maven-Market-Business-Requirements-Document.pdf)
 
   
 ## Current State (AS-IS)
